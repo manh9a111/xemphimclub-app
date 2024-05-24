@@ -1,29 +1,4 @@
-# xemphimclub - React app.
-I build this project to learning basic React Js, make single page aplication and know how React work. Project is a simple movie web app to watch popular movie, filter movie by genres, year or country, see bio cast,... All data in app can get at `themoviedb.org` API.
-## How to run
-- Clone this project : `git clone https://github.com/minhtri0795/xemphimclub-app.git`
-- In the project directory, you can run: `npm install` to install node module and all packages.
-- To start app run : `npm start`
-## Screenshot
-![](/public/demo-img/demo1.png)
-![](/public/demo-img/demo2.png)
-![](/public/demo-img/demo3.png)
-![](/public/demo-img/demo4.png)
-## Feature
-- Filter movie by genres, country, year,...
-
-- Have colection to save your favorite movie.
-
-- Comment is available.
-
-- Search cast and movie easy.
-
-- Friendly reponsive for tablet and mobile.
-
-## Browser Support
-Chrome,
- Firefox, 
- Edge, 
- Safari, 
- Opera.
-
+🚀 Ready to create your very own "Ask Her Out" website? 
+Join me in this step-by-step HTML tutorial where we'll design and code a personalized site to help you pop the question! 
+From layout to interactive features, I've got you covered. 
+No coding experience required - let's make your proposal unforgettable! 💻💘 #WebDevelopment #HTMLTutorial #LoveInTheCode
